@@ -58,7 +58,8 @@ The Random Forest model outperformed the Logistic Regression baseline on the tes
 
 ## Screenshots
 ### Churn Analysis by Subscription Type
-![SQL Output](images/churn_sql_output.png)
+![SQL Output](images/top-20-high-risk-customers.png)
+
 
 ### Feature Importance
 ![Feature Importance](images/feature_importance.png)
