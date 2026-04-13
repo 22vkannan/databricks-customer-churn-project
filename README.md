@@ -1,5 +1,3 @@
-# Link to Data Visualization: https://dbc-f230962f-2b09.cloud.databricks.com/dashboardsv3/01f136df23301e089bf933ab0d0bacd8/published?o=7474658483866240&f_c94607fc%7Eb0883b89=%257B%2522columns%2522%253A%255B%2522color%2522%252C%2522x%2522%252C%2522y%2522%255D%252C%2522rows%2522%253A%255B%255B%2522Basic%2522%252C%2522Basic%2522%252C%252257.49%2522%255D%255D%257D
-
 # databricks-customer-churn-project
 
 ## Tools Used
@@ -66,4 +64,5 @@ The Random Forest model outperformed the Logistic Regression baseline on the tes
 ![Feature Importance](images/feature_importance.png)
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+Link to Data Visualization: https://dbc-f230962f-2b09.cloud.databricks.com/dashboardsv3/01f136df23301e089bf933ab0d0bacd8/published?o=7474658483866240&f_c94607fc%7Eb0883b89=%257B%2522columns%2522%253A%255B%2522color%2522%252C%2522x%2522%252C%2522y%2522%255D%252C%2522rows%2522%253A%255B%255B%2522Basic%2522%252C%2522Basic%2522%252C%252257.49%2522%255D%255D%257D
+
