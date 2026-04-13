@@ -57,8 +57,8 @@ Evaluation metrics included:
 The Random Forest model outperformed the Logistic Regression baseline on the test set and was used to generate churn probabilities. Feature importance analysis suggested that variables such as payment delay, support calls, tenure, and usage behavior were among the strongest churn indicators.
 
 ## Screenshots
-### Highest Risk Customers
-![SQL Output](images/top_high_risk_customers.png)
+### Model Metrics
+![SQL Output](images/model_metrics.png)
 
 
 ### Feature Importance
